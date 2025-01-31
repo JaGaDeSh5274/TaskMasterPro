@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\New\\TaskMasterPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\data\\dataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\data\\taskmasterprocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\data\\taskmasterprocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\managers\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\managers\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\managers\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\managers\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|d:\\project\\new\\taskmasterpro\\taskmasterpro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41F6FEE7-BEED-4F1B-AC9C-663535D9AF3D}|TaskMasterPro\\TaskMasterPro.csproj|solutionrelative:taskmasterpro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskMasterPro\\Models\\Priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskMasterPro\\Models\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskMasterPro\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:57:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Models\\Priority.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Priority.cs",
+              "RelativeToolTip": "TaskMasterPro\\Models\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:54:22.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Models\\Status.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Status.cs",
+              "RelativeToolTip": "TaskMasterPro\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:51:32.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskMasterPro\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAhwPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:46:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Managers\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Managers\\ITaskManager.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Managers\\ITaskManager.cs",
+              "RelativeToolTip": "TaskMasterPro\\Managers\\ITaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:11:47.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskMasterPro\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAhwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:09:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskMasterProContext.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Data\\TaskMasterProContext.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Data\\TaskMasterProContext.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Data\\TaskMasterProContext.cs",
+              "RelativeToolTip": "TaskMasterPro\\Data\\TaskMasterProContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:58:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskMasterPro\\appsettings.json",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\appsettings.json",
+              "RelativeToolTip": "TaskMasterPro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T08:00:38.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Models\\Tasks.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Models\\Tasks.cs",
+              "RelativeToolTip": "TaskMasterPro\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:56:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataExtensions.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Data\\DataExtensions.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Data\\DataExtensions.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Data\\DataExtensions.cs",
+              "RelativeToolTip": "TaskMasterPro\\Data\\DataExtensions.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:19:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Program.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Program.cs",
+              "RelativeToolTip": "TaskMasterPro\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:26:40.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Managers\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskMasterPro\\Managers\\TaskManager.cs",
+              "ToolTip": "D:\\Project\\New\\TaskMasterPro\\TaskMasterPro\\Managers\\TaskManager.cs",
+              "RelativeToolTip": "TaskMasterPro\\Managers\\TaskManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:12:31.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
